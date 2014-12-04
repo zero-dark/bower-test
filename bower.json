@@ -1,0 +1,23 @@
+{
+  "name": "bower-test",
+  "version": "0.0.0",
+  "authors": [
+    "Matteo <matteo.marinucci@ampush.com>"
+  ],
+  "description": "bower upload test",
+  "main": "bower-test.js",
+  "keywords": [
+    "bower-test",
+    "test",
+    "private-bower"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
